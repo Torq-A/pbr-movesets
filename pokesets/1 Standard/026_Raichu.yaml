@@ -80,10 +80,10 @@ tags: [standard]
 item: [Thunder Stone]
 ability: [Motor Drive]
 moves:
-    - [Volt Tackle]
-    - [Take Down]
-    - [Outrage]
-    - [Belly Drum]
+    - [Discharge]
+    - [Flash Cannon]
+    - [Surf]
+    - [Nasty Plot]
 gender: [m, f]
 happiness: 255
 biddable: True
